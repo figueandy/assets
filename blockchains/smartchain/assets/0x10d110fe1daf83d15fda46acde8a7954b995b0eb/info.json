@@ -1,0 +1,11 @@
+{
+    "name": "CARIBIANCOIN",
+    "type": "BEP20",
+    "symbol": "CBC",
+    "decimals": 18,
+    "description": "CARIBIANCOIN is a DeFi project on BNB Smart Chain.",
+    "website": "https://caribiancoin.com",
+    "explorer": "https://bscscan.com/token/0x10d110fe1daf83d15fda46acde8a7954b995b0eb",
+    "status": "active",
+    "id": "0x10d110fe1daf83d15fda46acde8a7954b995b0eb"
+}
